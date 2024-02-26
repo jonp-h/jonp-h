@@ -9,11 +9,12 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img height="200" src="https://gravatar.com//userimage/56122766/f8456fa34bf37f752d4abdbbc56b142a.jpeg?size=50"  />
 </div>
 
+-->
 ###
 
 <br clear="both">
